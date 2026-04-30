@@ -1,0 +1,18 @@
+# file compilati
+server
+*.o
+*.a
+*.so
+
+# editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# temporanei
+*.tmp
